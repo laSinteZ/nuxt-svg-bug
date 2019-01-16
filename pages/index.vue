@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <img src="~/assets/example.svg">
+      <img src="~/assets/example.svg?data">
     </div>
   </section>
 </template>
